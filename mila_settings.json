@@ -1,0 +1,26 @@
+{
+  "assistant_name": "Мила",
+  "user_name": "Пользователь",
+  "hotkey": "f8",
+  "autostart": false,
+  "telegram_token": "",
+  "open_apps": [],
+  "history": [],
+  "last_chat_id": null,
+  "account_username": "",
+  "account_password": "",
+  "account_token": "",
+  "sync_server_url": "https://sea-lion-app-i3rnh.ondigitalocean.app/",
+  "account_logged_in": false,
+  "use_local_server": false,
+  "voice_stt_backend": "auto",
+  "voice_stt_model_size": "small",
+  "voice_capture_seconds": 3.5,
+  "command_server_enabled": true,
+  "command_server_host": "0.0.0.0",
+  
+  "command_server_port": 8080,
+  "command_server_token": "",
+  "openai_api_key": "",
+  "openai_api_url": ""
+}

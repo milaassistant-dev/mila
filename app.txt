@@ -1,0 +1,13 @@
+свет, C:\Users\kasak\Downloads\assistant_new\2.0\home.url
+перевод, C:\Users\kasak\Downloads\assistant_new\2.0\deepl.url
+учёба, C:\Users\kasak\Downloads\assistant_new\2.0\stuudium.url
+чат, C:\Users\kasak\Downloads\link\ChatGPT.lnk
+телега, C:\Users\kasak\Downloads\link\tg.lnk
+код, C:\Users\kasak\Downloads\link\Cursor.lnk
+интернет, C:\Users\kasak\Downloads\link\brave.lnk
+веселье, C:\Users\kasak\Downloads\link\secret.lnk
+текст, C:\Users\kasak\Downloads\link\word.lnk
+вайбер, C:\Users\kasak\Downloads\link\viber.lnk
+чат код, C:\Users\kasak\Downloads\link\chat_web.url
+кино, C:\Users\kasak\Downloads\link\cinema.url
+приложение, C:\Users\kasak\Downloads\link\Android Studio.lnk
